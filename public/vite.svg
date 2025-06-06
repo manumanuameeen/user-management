@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="a" x1="4. Littleroot Town" x2="44. Littleroot Town" y1="4. Littleroot Town" y2="44. Littleroot Town" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#41d1ff"/>
+      <stop offset="1" stop-color="#bd34fe"/>
+    </linearGradient>
+    <linearGradient id="b" x1="23.146" x2="24.529" y1="8.189" y2="39.774" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fefefe" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#f5f6f5"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#a)" d="M47.928 1.133A1.999 1.999 0 0 0 46.004.052L1.966 10.846a2 2 0 0 0-1.393 2.414l21.906 33.74a2 2 0 0 0 3.386.093l22.038-33.74a2 2 0 0 0 .019-2.279Z"/>
+  <path fill="url(#b)" d="M25.53 10.146a.5.5 0 0 0-.854.114L12.82 37.774a.5.5 0 0 0 .854.412l11.856-17.514a.5.5 0 0 0-.854-.412l-7.502 11.095a.5.5 0 0 0 .854.412l4.648-6.873a.5.5 0 0 0-.854-.412l-2.146 3.173a.5.5 0 0 0 .854.412l.429-.635a.5.5 0 0 0-.854-.412l-.143.211a.5.5 0 0 0 .854.412l.072-.106a.5.5 0 0 0-.854-.412l-.036.053a.5.5 0 0 0 .854.412l.018-.027a.5.5 0 0 0-.854-.412l-.009.013a.5.5 0 0 0 .854.412l.005-.007a.5.5 0 0 0-.854-.412l-.003.004a.5.5 0 0 0 .854.412l.001-.002a.5.5 0 0 0-.854-.412l-.001.001a.5.5 0 0 0 .854.412v-.001a.5.5 0 0 0-.854-.412v.001a.5.5 0 0 0 .854.412v-.001a.5.5 0 0 0-.854-.412v.001a.5.5 0 0 0 .854.412v-.001a.5.5 0 0 0-.854-.412v.001a.5.5 0 0 0 .854.412Z"/>
+</svg>
